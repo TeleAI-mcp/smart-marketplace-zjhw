@@ -1,2 +1,3 @@
-# smart-marketplace-zjhw
-A online marketplace platform for modern development workflows
+# Smart Marketplace Zjhw
+
+A online marketplace platform for modern development workflows.
